@@ -40,7 +40,7 @@
     "lodash-inflection": "^1.4.0",
     "merge2": "^0.3.6",
     "monaco-editor": "^0.11.1",
-    "nodejs-fs-utils": "~1.0.26",
+    "nodejs-fs-utils": "~1.2.6",
     "run-sequence": "~1.1.0",
     "sync-exec": "0.6.2",
     "vinyl-paths": "^2.1.0",
