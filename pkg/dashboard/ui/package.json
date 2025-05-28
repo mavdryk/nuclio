@@ -45,7 +45,7 @@
     "sync-exec": "0.6.2",
     "vinyl-paths": "^2.1.0",
     "yamljs": "^0.3.0",
-    "yargs": "^3.25.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "gulp-karma": "~0.0.4",
